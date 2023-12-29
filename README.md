@@ -3,10 +3,9 @@
 
 ### Olá, bem-vindo(a) ao meu portfólio!  
     
-<p> Aqui encontrará todos os projetos que venho desenvolvendo/desenvolvi com o intuito de adquirir o máximo de conhecimento possível. <br/>
+<p> Aqui encontrará todos os projetos que venho desenvolvendo/desenvolvi com o intuito de adquirir o máximo de conhecimento possível. <br/><br/>
     Venho de uma área totalmente diferente, sou apaixonado por tecnologia e tem sido incrível o desafio de me preparar para uma nova carreira profissional!</p>
 <hr>
-<p> Estudando Análise e Desenvolvimento de Sistemas na Faculdade Impacta </p>
 <p>🚀 Minhas Skills </p>
 <p>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
