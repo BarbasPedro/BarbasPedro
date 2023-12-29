@@ -2,7 +2,7 @@
 
 <p align="left">
  Olá, bem-vindo(a) ao meu portfólio! <br/><br/>
- Aqui encontrará todos os projetos que venho a desenvolver com o intuito adquirir o máximo de conhecimento possível. <br/>
+ Aqui encontrará todos os projetos que venho desenvolvendo/desenvolvi com o intuito adquirir o máximo de conhecimento possível. <br/>
  Venho de uma área totalmente diferente, sou apaixonado por tecnologia e tem sido incrível o desafio de me preparar para uma nova carreira profissional!
 </p>
 
