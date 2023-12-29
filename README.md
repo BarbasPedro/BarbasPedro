@@ -1,27 +1,15 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github stats">
 
-<p align="left">
- Olá, bem-vindo(a) ao meu portfólio! <br/><br/>
- Aqui encontrará todos os projetos que venho desenvolvendo/desenvolvi com o intuito adquirir o máximo de conhecimento possível. <br/>
- Venho de uma área totalmente diferente, sou apaixonado por tecnologia e tem sido incrível o desafio de me preparar para uma nova carreira profissional!
-</p>
+### Olá, bem-vindo(a) ao meu portfólio! <br/><br/>
+    Aqui encontrará todos os projetos que venho desenvolvendo/desenvolvi com o intuito de adquirir o máximo de conhecimento possível. <br/>
+    Venho de uma área totalmente diferente, sou apaixonado por tecnologia e tem sido incrível o desafio de me preparar para uma nova carreira profissional!
 
-<p align="left">
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      /> 
-    </td>
-</p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=PEDRO+BARBAS&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
+
+<p> Estudando Análise e Desenvolvimento de Sistemas na Faculdade Impacta </p>
+<hr>
 <p>
 🚀 Minhas Skills
 
